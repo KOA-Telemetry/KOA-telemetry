@@ -1,0 +1,7 @@
+
+=== Snapshot 2026-02-06T20:10:24 ===
+Vessel: KOA-1 Grasshopper v2
+Situation: VesselSituation.landed
+Biome: UNKNOWN
+- FS4BC Biplane Cockpit: ModuleScienceContainer present (inventory unavailable)
+- Jebediah Kerman: ModuleScienceContainer present (inventory unavailable)
