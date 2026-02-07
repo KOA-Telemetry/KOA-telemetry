@@ -1,0 +1,207 @@
+=== Snapshot 2026-02-07T12:45:56 ===
+Vessel: auto science hopper
+Situation: VesselSituation.pre_launch
+Biome: UNKNOWN
+- No stored experiment data found (has_data=False for all experiments).
+
+ERRORS (non-fatal):
+* flight.biome: AttributeError: 'Flight' object has no attribute 'biome'
+
+=== Snapshot 2026-02-07T12:46:01 ===
+Vessel: auto science hopper
+Situation: VesselSituation.pre_launch
+Biome: UNKNOWN
+- No stored experiment data found (has_data=False for all experiments).
+
+ERRORS (non-fatal):
+* flight.biome: AttributeError: 'Flight' object has no attribute 'biome'
+
+=== Snapshot 2026-02-07T12:46:06 ===
+Vessel: auto science hopper
+Situation: VesselSituation.pre_launch
+Biome: UNKNOWN
+- No stored experiment data found (has_data=False for all experiments).
+
+ERRORS (non-fatal):
+* flight.biome: AttributeError: 'Flight' object has no attribute 'biome'
+
+=== Snapshot 2026-02-07T12:46:11 ===
+Vessel: auto science hopper
+Situation: VesselSituation.pre_launch
+Biome: UNKNOWN
+- No stored experiment data found (has_data=False for all experiments).
+
+ERRORS (non-fatal):
+* flight.biome: AttributeError: 'Flight' object has no attribute 'biome'
+
+=== Snapshot 2026-02-07T12:46:16 ===
+Vessel: auto science hopper
+Situation: VesselSituation.pre_launch
+Biome: UNKNOWN
+- No stored experiment data found (has_data=False for all experiments).
+
+ERRORS (non-fatal):
+* flight.biome: AttributeError: 'Flight' object has no attribute 'biome'
+
+=== Snapshot 2026-02-07T12:46:21 ===
+Vessel: auto science hopper
+Situation: VesselSituation.pre_launch
+Biome: UNKNOWN
+- No stored experiment data found (has_data=False for all experiments).
+
+ERRORS (non-fatal):
+* flight.biome: AttributeError: 'Flight' object has no attribute 'biome'
+
+=== Snapshot 2026-02-07T12:46:26 ===
+Vessel: auto science hopper
+Situation: VesselSituation.pre_launch
+Biome: UNKNOWN
+- No stored experiment data found (has_data=False for all experiments).
+
+ERRORS (non-fatal):
+* flight.biome: AttributeError: 'Flight' object has no attribute 'biome'
+
+=== Snapshot 2026-02-07T12:46:31 ===
+Vessel: auto science hopper
+Situation: VesselSituation.pre_launch
+Biome: UNKNOWN
+- No stored experiment data found (has_data=False for all experiments).
+
+ERRORS (non-fatal):
+* flight.biome: AttributeError: 'Flight' object has no attribute 'biome'
+
+=== Snapshot 2026-02-07T12:46:37 ===
+Vessel: auto science hopper
+Situation: VesselSituation.pre_launch
+Biome: UNKNOWN
+- No stored experiment data found (has_data=False for all experiments).
+
+ERRORS (non-fatal):
+* flight.biome: AttributeError: 'Flight' object has no attribute 'biome'
+
+=== Snapshot 2026-02-07T12:46:42 ===
+Vessel: auto science hopper
+Situation: VesselSituation.pre_launch
+Biome: UNKNOWN
+- No stored experiment data found (has_data=False for all experiments).
+
+ERRORS (non-fatal):
+* flight.biome: AttributeError: 'Flight' object has no attribute 'biome'
+
+=== Snapshot 2026-02-07T12:46:47 ===
+Vessel: auto science hopper
+Situation: VesselSituation.pre_launch
+Biome: UNKNOWN
+- No stored experiment data found (has_data=False for all experiments).
+
+ERRORS (non-fatal):
+* flight.biome: AttributeError: 'Flight' object has no attribute 'biome'
+
+=== Snapshot 2026-02-07T12:46:52 ===
+Vessel: auto science hopper
+Situation: VesselSituation.pre_launch
+Biome: UNKNOWN
+- No stored experiment data found (has_data=False for all experiments).
+
+ERRORS (non-fatal):
+* flight.biome: AttributeError: 'Flight' object has no attribute 'biome'
+
+=== Snapshot 2026-02-07T12:46:57 ===
+Vessel: auto science hopper
+Situation: VesselSituation.pre_launch
+Biome: UNKNOWN
+- No stored experiment data found (has_data=False for all experiments).
+
+ERRORS (non-fatal):
+* flight.biome: AttributeError: 'Flight' object has no attribute 'biome'
+
+=== Snapshot 2026-02-07T12:47:02 ===
+Vessel: auto science hopper
+Situation: VesselSituation.pre_launch
+Biome: UNKNOWN
+- No stored experiment data found (has_data=False for all experiments).
+
+ERRORS (non-fatal):
+* flight.biome: AttributeError: 'Flight' object has no attribute 'biome'
+
+=== Snapshot 2026-02-07T12:47:07 ===
+Vessel: auto science hopper
+Situation: VesselSituation.pre_launch
+Biome: UNKNOWN
+- No stored experiment data found (has_data=False for all experiments).
+
+ERRORS (non-fatal):
+* flight.biome: AttributeError: 'Flight' object has no attribute 'biome'
+
+=== Snapshot 2026-02-07T12:47:13 ===
+Vessel: auto science hopper
+Situation: VesselSituation.pre_launch
+Biome: UNKNOWN
+- No stored experiment data found (has_data=False for all experiments).
+
+ERRORS (non-fatal):
+* flight.biome: AttributeError: 'Flight' object has no attribute 'biome'
+
+=== Snapshot 2026-02-07T12:47:18 ===
+Vessel: auto science hopper
+Situation: VesselSituation.pre_launch
+Biome: UNKNOWN
+- No stored experiment data found (has_data=False for all experiments).
+
+ERRORS (non-fatal):
+* flight.biome: AttributeError: 'Flight' object has no attribute 'biome'
+
+=== Snapshot 2026-02-07T12:47:23 ===
+Vessel: auto science hopper
+Situation: VesselSituation.pre_launch
+Biome: UNKNOWN
+- No stored experiment data found (has_data=False for all experiments).
+
+ERRORS (non-fatal):
+* flight.biome: AttributeError: 'Flight' object has no attribute 'biome'
+
+=== Snapshot 2026-02-07T12:47:28 ===
+Vessel: auto science hopper
+Situation: VesselSituation.pre_launch
+Biome: UNKNOWN
+- No stored experiment data found (has_data=False for all experiments).
+
+ERRORS (non-fatal):
+* flight.biome: AttributeError: 'Flight' object has no attribute 'biome'
+
+=== Snapshot 2026-02-07T12:47:33 ===
+Vessel: auto science hopper
+Situation: VesselSituation.pre_launch
+Biome: UNKNOWN
+- No stored experiment data found (has_data=False for all experiments).
+
+ERRORS (non-fatal):
+* flight.biome: AttributeError: 'Flight' object has no attribute 'biome'
+
+=== Snapshot 2026-02-07T12:47:38 ===
+Vessel: auto science hopper
+Situation: VesselSituation.pre_launch
+Biome: UNKNOWN
+- No stored experiment data found (has_data=False for all experiments).
+
+ERRORS (non-fatal):
+* flight.biome: AttributeError: 'Flight' object has no attribute 'biome'
+
+=== Snapshot 2026-02-07T12:47:43 ===
+Vessel: auto science hopper
+Situation: VesselSituation.pre_launch
+Biome: UNKNOWN
+- No stored experiment data found (has_data=False for all experiments).
+
+ERRORS (non-fatal):
+* flight.biome: AttributeError: 'Flight' object has no attribute 'biome'
+
+=== FINAL 2026-02-07T12:47:45 ===
+Vessel: auto science hopper
+Situation: VesselSituation.pre_launch
+Biome: UNKNOWN
+- No stored experiment data found (has_data=False for all experiments).
+
+ERRORS (non-fatal):
+* flight.biome(final): AttributeError: 'Flight' object has no attribute 'biome'
+
