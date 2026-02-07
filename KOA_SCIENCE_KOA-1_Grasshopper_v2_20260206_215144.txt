@@ -1,0 +1,67 @@
+=== Snapshot 2026-02-06T21:51:44 ===
+Vessel: KOA-1 Grasshopper v2
+Situation: VesselSituation.landed
+Biome: UNKNOWN
+- No stored experiment data found (has_data=False for all experiments).
+
+ERRORS (non-fatal):
+* flight.biome: AttributeError: 'Flight' object has no attribute 'biome'
+
+=== Snapshot 2026-02-06T21:51:59 ===
+Vessel: KOA-1 Grasshopper v2
+Situation: VesselSituation.landed
+Biome: UNKNOWN
+- (science inventory unavailable: vessel not readable)
+
+ERRORS (non-fatal):
+* flight.biome: AttributeError: 'Flight' object has no attribute 'biome'
+* flight.latitude: RPCError: string[] string.Split(char,System.StringSplitOptions)
+Server stack trace:
+  at KRPC.Service.Services.ExecuteCall (KRPC.Service.Scanner.ProcedureSignature procedure, System.Object[] arguments) [0x0001b] in <721f168820194101b819b3da6b33b716>:0 
+* flight.longitude: RPCError: string[] string.Split(char,System.StringSplitOptions)
+Server stack trace:
+  at KRPC.Service.Services.ExecuteCall (KRPC.Service.Scanner.ProcedureSignature procedure, System.Object[] arguments) [0x0001b] in <721f168820194101b819b3da6b33b716>:0 
+* flight.mean_altitude: RPCError: string[] string.Split(char,System.StringSplitOptions)
+Server stack trace:
+  at KRPC.Service.Services.ExecuteCall (KRPC.Service.Scanner.ProcedureSignature procedure, System.Object[] arguments) [0x0001b] in <721f168820194101b819b3da6b33b716>:0 
+* flight.vertical_speed: RPCError: string[] string.Split(char,System.StringSplitOptions)
+Server stack trace:
+  at KRPC.Service.Services.ExecuteCall (KRPC.Service.Scanner.ProcedureSignature procedure, System.Object[] arguments) [0x0001b] in <721f168820194101b819b3da6b33b716>:0 
+* flight.speed: RPCError: string[] string.Split(char,System.StringSplitOptions)
+Server stack trace:
+  at KRPC.Service.Services.ExecuteCall (KRPC.Service.Scanner.ProcedureSignature procedure, System.Object[] arguments) [0x0001b] in <721f168820194101b819b3da6b33b716>:0 
+* flight.pitch: RPCError: string[] string.Split(char,System.StringSplitOptions)
+Server stack trace:
+  at KRPC.Service.Services.ExecuteCall (KRPC.Service.Scanner.ProcedureSignature procedure, System.Object[] arguments) [0x0001b] in <721f168820194101b819b3da6b33b716>:0 
+* flight.heading: RPCError: string[] string.Split(char,System.StringSplitOptions)
+Server stack trace:
+  at KRPC.Service.Services.ExecuteCall (KRPC.Service.Scanner.ProcedureSignature procedure, System.Object[] arguments) [0x0001b] in <721f168820194101b819b3da6b33b716>:0 
+* flight.roll: RPCError: string[] string.Split(char,System.StringSplitOptions)
+Server stack trace:
+  at KRPC.Service.Services.ExecuteCall (KRPC.Service.Scanner.ProcedureSignature procedure, System.Object[] arguments) [0x0001b] in <721f168820194101b819b3da6b33b716>:0 
+* v.control.throttle: RPCError: string[] string.Split(char,System.StringSplitOptions)
+Server stack trace:
+  at KRPC.Service.Services.ExecuteCall (KRPC.Service.Scanner.ProcedureSignature procedure, System.Object[] arguments) [0x0001b] in <721f168820194101b819b3da6b33b716>:0 
+* vessel.parts.experiments: RPCError: string[] string.Split(char,System.StringSplitOptions)
+Server stack trace:
+  at KRPC.Service.Services.ExecuteCall (KRPC.Service.Scanner.ProcedureSignature procedure, System.Object[] arguments) [0x0001b] in <721f168820194101b819b3da6b33b716>:0 
+
+=== FINAL 2026-02-06T21:51:59 ===
+Vessel: KOA-1 Grasshopper v2
+Situation: UNKNOWN/UNAVAILABLE
+Biome: UNKNOWN
+- (science inventory unavailable: vessel not readable)
+
+ERRORS (non-fatal):
+* v.situation(final): ValueError: No such vessel f9eaff97-982e-4cc6-b183-fa66e49fc1c2
+Server stack trace:
+  at KRPC.SpaceCenter.FlightGlobalsExtensions.GetVesselById (System.Guid id) [0x0008a] in <d8566df5220a4070afa44bd2ecc53aa8>:0 
+  at KRPC.SpaceCenter.Services.Vessel.get_InternalVessel () [0x00006] in <d8566df5220a4070afa44bd2ecc53aa8>:0 
+  at KRPC.SpaceCenter.Services.Vessel.get_Situation () [0x00000] in <d8566df5220a4070afa44bd2ecc53aa8>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00032] in <9577ac7a62ef43179789031239ba8798>:0 
+* flight.biome(final): AttributeError: 'Flight' object has no attribute 'biome'
+* vessel.parts.experiments: RPCError: string[] string.Split(char,System.StringSplitOptions)
+Server stack trace:
+  at KRPC.Service.Services.ExecuteCall (KRPC.Service.Scanner.ProcedureSignature procedure, System.Object[] arguments) [0x0001b] in <721f168820194101b819b3da6b33b716>:0 
+

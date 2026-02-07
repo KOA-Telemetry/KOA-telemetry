@@ -1,0 +1,59 @@
+=== Snapshot 2026-02-06T21:00:23 ===
+Vessel: KOA-1 Grasshopper v2
+Situation: VesselSituation.landed
+Biome: UNKNOWN
+- No stored experiment data found (has_data=False for all experiments).
+
+ERRORS (non-fatal):
+* flight.biome: AttributeError: 'Flight' object has no attribute 'biome'
+=== Snapshot 2026-02-06T21:00:28 ===
+Vessel: KOA-1 Grasshopper v2
+Situation: VesselSituation.landed
+Biome: UNKNOWN
+- No stored experiment data found (has_data=False for all experiments).
+
+ERRORS (non-fatal):
+* flight.biome: AttributeError: 'Flight' object has no attribute 'biome'
+=== Snapshot 2026-02-06T21:00:33 ===
+Vessel: KOA-1 Grasshopper v2
+Situation: VesselSituation.landed
+Biome: UNKNOWN
+- No stored experiment data found (has_data=False for all experiments).
+
+ERRORS (non-fatal):
+* flight.biome: AttributeError: 'Flight' object has no attribute 'biome'
+=== Snapshot 2026-02-06T21:00:43 ===
+Vessel: KOA-1 Grasshopper v2
+Situation: VesselSituation.landed
+Biome: UNKNOWN
+- Science inventory failed: RPCError('string[] string.Split(char,System.StringSplitOptions)\nServer stack trace:\n  at KRPC.Service.Services.ExecuteCall (KRPC.Service.Scanner.ProcedureSignature procedure, System.Object[] arguments) [0x0001b] in <721f168820194101b819b3da6b33b716>:0 ')
+
+ERRORS (non-fatal):
+* flight.biome: AttributeError: 'Flight' object has no attribute 'biome'
+* flight.latitude: RPCError: string[] string.Split(char,System.StringSplitOptions)
+Server stack trace:
+  at KRPC.Service.Services.ExecuteCall (KRPC.Service.Scanner.ProcedureSignature procedure, System.Object[] arguments) [0x0001b] in <721f168820194101b819b3da6b33b716>:0 
+* flight.longitude: RPCError: string[] string.Split(char,System.StringSplitOptions)
+Server stack trace:
+  at KRPC.Service.Services.ExecuteCall (KRPC.Service.Scanner.ProcedureSignature procedure, System.Object[] arguments) [0x0001b] in <721f168820194101b819b3da6b33b716>:0 
+* flight.mean_altitude: RPCError: string[] string.Split(char,System.StringSplitOptions)
+Server stack trace:
+  at KRPC.Service.Services.ExecuteCall (KRPC.Service.Scanner.ProcedureSignature procedure, System.Object[] arguments) [0x0001b] in <721f168820194101b819b3da6b33b716>:0 
+* flight.vertical_speed: RPCError: string[] string.Split(char,System.StringSplitOptions)
+Server stack trace:
+  at KRPC.Service.Services.ExecuteCall (KRPC.Service.Scanner.ProcedureSignature procedure, System.Object[] arguments) [0x0001b] in <721f168820194101b819b3da6b33b716>:0 
+* flight.speed: RPCError: string[] string.Split(char,System.StringSplitOptions)
+Server stack trace:
+  at KRPC.Service.Services.ExecuteCall (KRPC.Service.Scanner.ProcedureSignature procedure, System.Object[] arguments) [0x0001b] in <721f168820194101b819b3da6b33b716>:0 
+* flight.pitch: RPCError: string[] string.Split(char,System.StringSplitOptions)
+Server stack trace:
+  at KRPC.Service.Services.ExecuteCall (KRPC.Service.Scanner.ProcedureSignature procedure, System.Object[] arguments) [0x0001b] in <721f168820194101b819b3da6b33b716>:0 
+* flight.heading: RPCError: string[] string.Split(char,System.StringSplitOptions)
+Server stack trace:
+  at KRPC.Service.Services.ExecuteCall (KRPC.Service.Scanner.ProcedureSignature procedure, System.Object[] arguments) [0x0001b] in <721f168820194101b819b3da6b33b716>:0 
+* flight.roll: RPCError: string[] string.Split(char,System.StringSplitOptions)
+Server stack trace:
+  at KRPC.Service.Services.ExecuteCall (KRPC.Service.Scanner.ProcedureSignature procedure, System.Object[] arguments) [0x0001b] in <721f168820194101b819b3da6b33b716>:0 
+* v.control.throttle: RPCError: string[] string.Split(char,System.StringSplitOptions)
+Server stack trace:
+  at KRPC.Service.Services.ExecuteCall (KRPC.Service.Scanner.ProcedureSignature procedure, System.Object[] arguments) [0x0001b] in <721f168820194101b819b3da6b33b716>:0 

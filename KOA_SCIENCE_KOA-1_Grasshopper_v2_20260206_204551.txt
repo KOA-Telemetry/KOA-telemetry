@@ -1,0 +1,10 @@
+=== Snapshot 2026-02-06T20:45:51 ===
+Vessel: KOA-1 Grasshopper v2
+Situation: VesselSituation.landed
+Biome: UNKNOWN
+- No stored experiment data found (has_data=False for all experiments).
+=== Snapshot 2026-02-06T20:45:56 ===
+Vessel: KOA-1 Grasshopper v2
+Situation: VesselSituation.landed
+Biome: UNKNOWN
+- No stored experiment data found (has_data=False for all experiments).
